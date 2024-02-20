@@ -18,12 +18,19 @@ Este proyecto contiene pruebas automatizadas utilizando Cypress, un framework de
 
 
 
-## Instalación
+## Pasos para ejecutar la prueba
 
-1. **Clona el repositorio:**
+1. Descargar el proyecto en formato ZIP y descomprimirlo.
 
-   ```bash
-   git clone https://github.com/tu-usuario/tu-proyecto.git
+2. Arrastrar el proyecto al editor de código.
+
+3. Abrir el terminal y ejecutar Cypress con el siguiente comando: ```npx cypress open```
+
+4. Seleccionar la configuración de prueba de extremo a extremo (e2e testing).
+
+5. Elegir Chrome como navegador de ejecución.
+
+6. Ejecutar la prueba especificada.
 
 
    
