@@ -12,13 +12,13 @@ Este proyecto contiene pruebas automatizadas utilizando Cypress, un framework de
    - Descarga e instala Node.js desde [nodejs.org](https://nodejs.org/).
 
 2. **npm (Node Package Manager):**
-   - Verificar que npm instalado ejecutando `npm -v`. Si necesitas actualizarlo, usa `npm install -g npm@latest`.
+   - Verificar que npm instalado ejecutando `npm -v`
 
 3. **Editor de código:**
    - Utiliza cualquier editor de código que prefieras. En mi caso, utilicé Visual Studio Code.
 
 4. **Cypress:**
-   - Abre la terminal en la carpeta de la prueba y ejecuta `npm install cypress --save-dev`.
+   - Abrir terminal en el editor de codigo y instalar con npm install cypress --save-dev
 
 
 ## Instalación
