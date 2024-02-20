@@ -20,7 +20,7 @@ Este proyecto contiene pruebas automatizadas utilizando Cypress, un framework de
 **Paso 3:** Instalación de Cypress
    - Ejecuta el siguiente comando en la terminal para instalar Cypress:
      ```
-    npm install cypress --save-dev
+      npm install cypress --save-dev
      ```
 
 
