@@ -13,7 +13,7 @@ Este proyecto contiene pruebas automatizadas utilizando Cypress, un framework de
 **2. npm (Node Package Manager):** Node.js generalmente incluye npm, pero es recomendable verificar si se tiene la última versión. Verificar ejecutando el siguiente comando en la terminal : **npm -v**
 
 
-**3. Cypress:** Asegúra de tener Cypress instalado en el sistema. Se puede instalar Cypress ejecutando el siguiente comando en la terminal: **npm install cypress --save-dev**
+**3. Cypress:** Asegúra de tener Cypress instalado en el sistema. Se puede instalar Cypress ejecutando el  ```siguiente ``` comando en la terminal: **npm install cypress --save-dev**
 
 
 
@@ -24,3 +24,6 @@ Este proyecto contiene pruebas automatizadas utilizando Cypress, un framework de
 
    ```bash
    git clone https://github.com/tu-usuario/tu-proyecto.git
+
+
+   
