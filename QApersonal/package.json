@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "cy:run": "cypress run --browser chrome"
+  },
+  "devDependencies": {
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "cypress": "^12.17.4"
+  }
+}
