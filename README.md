@@ -8,12 +8,12 @@ Este proyecto contiene pruebas automatizadas utilizando Cypress, un framework de
 
 ## Requisitos Previos
 
- **1. Node.js:** Asegúrate de tener Node.js instalado en tu sistema. Puedes descargar la última versión desde el sitio web oficial de Node.js: https://nodejs.org/
+ **1. Node.js:** Asegúrar de tener Node.js instalado en el sistema. Se puede descargar la última versión desde el sitio web oficial de Node.js: https://nodejs.org/
 
-**2. npm (Node Package Manager):** Node.js generalmente incluye npm, pero es recomendable verificar si tienes la última versión. Puedes verificar ejecutando el siguiente comando en la terminal : **npm -v**
+**2. npm (Node Package Manager):** Node.js generalmente incluye npm, pero es recomendable verificar si se tiene la última versión. Verificar ejecutando el siguiente comando en la terminal : **npm -v**
 
 
-**3. Cypress:** Asegúrate de tener Cypress instalado globalmente para facilitar la ejecución de comandos Cypress desde cualquier ubicación en tu sistema. Puedes instalar Cypress con el siguiente comando: **npm install cypress --save-dev**
+**3. Cypress:** Asegúra de tener Cypress instalado en el sistema. Se puede instalar Cypress ejecutando el siguiente comando en la terminal: **npm install cypress --save-dev**
 
 
 
