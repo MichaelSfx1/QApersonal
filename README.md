@@ -4,7 +4,7 @@ Prueba de automazacion con cupress
 
 ## Descripción
 
-Este proyecto contiene pruebas automatizadas utilizando Cypress, un framework de pruebas de extremo a extremo para aplicaciones web modernas.
+Se ha llevado a cabo una prueba técnica para la empresa SFX, utilizando automatización con Cypress. Se solicita atentamente que se revisen los requisitos previos y se sigan los pasos indicados para la ejecución de la prueba, asegurándose de evitar cualquier problema durante el proceso.
 
 ## Requisitos Previos
 
